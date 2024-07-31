@@ -1,0 +1,21 @@
+Student Onboarding Analysis in Tableau Project
+Understanding the Onboarding Path: A Data-Driven Approach
+
+Case Description
+Backgound:An onboarding survey, in essence, is a structured questionnaire or feedback mechanism employed by online platforms to gain insights into new users' experiences and expectations during their initial interaction with the platform. This Student Onboarding Analysis in Tableau project delves into the onboarding experience of students using an e-learning platform. By analyzing customer onboarding survey data, we seek to understand better how students discover the platform, their learning aspirations, and ultimate career goals.
+Objective: The critical aspect of this project is the development of an interactive dashboard in Tableau. The dashboard will showcase the survey completion trends over time and across different countries. It will present visualizations depicting how students discovered the platform, their desired learning areas, and career goals.
+A crucial part is adding several interactive filters allowing users to slice and dice the data based on variables, such as registration date, survey completion date, student country, and subscription status and type. This will give stakeholders a dynamic and robust tool to derive insights from the onboarding survey data effectively.
+
+Project content
+2 Project files
+Guided and unguided instructions Up to 10 XP
+Part 1: KPI – Overall Student Count
+Part 2: Timeline of Student Surveys
+Part 3: Location of Survey Completion
+Part 4: Discovery Sources
+Part 5: Exploring Learning Desires
+Part 6: Mapping Student Aspirations
+Part 7: Building the Dashboard and Adding Filters
+Part 8: Data Interpretation
+Quiz Up to 25 XP
+
